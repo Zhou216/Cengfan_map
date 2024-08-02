@@ -170,7 +170,7 @@ let students=
     },
     {
         "name": "郑镕涛",
-        "school": "集美大学 - 海洋渔业科学与技术",
+        "school": "集美大学 - 动物科学",
         "city": "厦门",
         "province": "福建"
     },
