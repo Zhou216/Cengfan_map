@@ -158,9 +158,9 @@ let students=
     },
     {
         "name": "申林泰",
-        "school": "暂无",
-        "city": "泉州",
-        "province": "福建"
+        "school": "重庆三峡医药高等专科学校",
+        "city": "重庆",
+        "province": "重庆市"
     },
     {
         "name": "林玉晖",
