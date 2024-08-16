@@ -159,8 +159,8 @@ let students=
     {
         "name": "申林泰",
         "school": "重庆三峡医药高等专科学校",
-        "city": "重庆",
-        "province": "重庆市"
+        "city": "万州区",
+        "province": "重庆"
     },
     {
         "name": "林玉晖",
